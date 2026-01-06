@@ -70,7 +70,7 @@ It also provides dedicated Encoder and Decoder modules to handle common data enc
 ### 💻 Installation & Usage
 **📥 Clone the Repository**
 ```
-git clone https://github.com/Rushi20Pute/HashBreaker.git
+https://github.com/Rushi20pute/The_HashBreaker
 
 ```
 **🔓 Grant Permissions**
